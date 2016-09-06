@@ -1,2 +1,5 @@
 # hello-world
-first guide in github
+
+hello ppl
+
+tommy here, im new to github and still wondering how to use all these things.
